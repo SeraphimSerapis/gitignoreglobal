@@ -68,10 +68,27 @@ npm-debug.log
 node_modules
 
 ########
+# Ruby (on Rails)
+########
+*.rbc
+*.sassc
+.sass-cache
+.rspec
+.rvmrc
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+.project
+
+########
 # Repository stuff
 ########
 .hg
 .svn
 CVS
-
-
