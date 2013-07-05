@@ -28,6 +28,8 @@ local.properties
 .settings
 .idea
 .iml
+.gradle
+build/
 
 ########
 # Xcode
